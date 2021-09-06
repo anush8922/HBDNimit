@@ -1,0 +1,3 @@
+termcolor:- pip install termcolor
+playsound:- pip install playsound
+PyObjC; sys_platform == 'darwin'
